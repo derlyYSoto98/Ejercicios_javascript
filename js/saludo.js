@@ -1,3 +1,3 @@
 "use strict"
-var nombre="Buenas tardes; Intructro  David";
-console.log(nombre);
+var nombre="David Calderon";
+console.log('Buenas tardes BIENVENIDO!!  '+ nombre);
