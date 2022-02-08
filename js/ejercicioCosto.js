@@ -11,7 +11,6 @@ if (costoInicial < 30000) {
      console.log ('Estimado usuario su total a pagar es de' + costoInicial)
 }
 else if (costoInicial >= 30000 && costoInicial < 100000) {
-        console.log("Holis");
         descuent = (costoInicial * primerDes)/100
         costofinal= costoInicial - descuent
         console.log('Apreciado usuario su pago inicial es de ' + costoInicial +' pero su total a pagar es de ' + costofinal + ' adquiriendo un 5% en su compra equivalente a $' + descuent)
